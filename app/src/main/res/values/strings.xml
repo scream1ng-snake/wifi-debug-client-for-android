@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test WiFi Connection ESP8266</string>
+    <string name="logo">ESP8266</string>
+    <string name="hint_user_field">Введите текст для отправки</string>
+    <string name="send_btn">Отправить</string>
+    <string name="close_button">Close Socket</string>
+    <string name="connect_button">Connect</string>
+    <string name="no_user_input">Введите текст для отправки</string>
+    <string name="hint_ip_input">Введите IP адрес</string>
+    <string name="hint_port_input">Введите номер порта</string>
+    <string name="wifi_dis">WiFi выключен</string>
+    <string name="wifi_ena">WiFi включен</string>
+</resources>
